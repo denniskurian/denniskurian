@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denniskurian
+- 👋 Hi, I’m @david jose
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ...
