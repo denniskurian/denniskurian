@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @david jose
+- 👋 Hi, I’m @david jose kurian
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning C# and unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
